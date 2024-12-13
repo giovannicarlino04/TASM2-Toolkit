@@ -1,0 +1,6 @@
+#ifndef TASM2PATCHER_H
+#define TASM2PATCHER_H
+
+#define MINIMUM_GAME_VERSION	1.001f
+
+#endif //TASM2PATCHER_H
